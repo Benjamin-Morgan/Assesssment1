@@ -1,0 +1,29 @@
+div {
+    position: relative;
+}
+
+h1 {
+    color: rgb(224, 40, 40);
+    font-size: 40px;
+    text-shadow: -1px 1px 2px #000, 1px 1px 2px #000, 1px -1px 0 #000, -1px -1px 0 #000;
+    text-align: center;
+}
+
+form {
+    margin: auto;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    padding: 5px;
+    border-radius: 5px;
+    margin: 8px;
+}
+
+p {
+    font-family: "Seymour One", sans-serif;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
